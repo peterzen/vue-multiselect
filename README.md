@@ -1,5 +1,7 @@
 # vue-multiselect
 
+This is a Bootstrap themed fork.  It has been tested with Bootstrap 5.  
+
 ## Documentation for version 3 (Compatible with Vue 3)
 
 Documentation for v3.0.0 is almost the same as for v2.x as it is mostly backward compatible. For the full docs for v3 and previous versions, check out: [vue-multiselect.js.org](https://vue-multiselect.js.org/#sub-getting-started)
