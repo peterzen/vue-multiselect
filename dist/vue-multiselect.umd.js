@@ -4702,7 +4702,7 @@ var es_regexp_exec = __webpack_require__(7495);
 var es_string_search = __webpack_require__(5746);
 // EXTERNAL MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
 var external_commonjs_vue_commonjs2_vue_root_Vue_ = __webpack_require__(9274);
-;// ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/Multiselect.vue?vue&type=template&id=105c69d9
+;// ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/Multiselect.vue?vue&type=template&id=06eb48e1
 
 
 
@@ -4961,7 +4961,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     _: 3
   })], 42, _hoisted_1);
 }
-;// ./src/Multiselect.vue?vue&type=template&id=105c69d9
+;// ./src/Multiselect.vue?vue&type=template&id=06eb48e1
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.slice.js
 var es_array_slice = __webpack_require__(4782);
@@ -6198,11 +6198,6 @@ var flow = function flow() {
 });
 ;// ./src/Multiselect.vue?vue&type=script&lang=js
  
-;// ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-54.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-54.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-54.use[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/Multiselect.vue?vue&type=style&index=0&id=105c69d9&lang=css
-// extracted by mini-css-extract-plugin
-
-;// ./src/Multiselect.vue?vue&type=style&index=0&id=105c69d9&lang=css
-
 // EXTERNAL MODULE: ./node_modules/vue-loader/dist/exportHelper.js
 var exportHelper = __webpack_require__(6262);
 ;// ./src/Multiselect.vue
@@ -6211,8 +6206,6 @@ var exportHelper = __webpack_require__(6262);
 
 
 ;
-
-
 const __exports__ = /*#__PURE__*/(0,exportHelper/* default */.A)(Multiselectvue_type_script_lang_js, [['render',render]])
 
 /* harmony default export */ const Multiselect = (__exports__);
